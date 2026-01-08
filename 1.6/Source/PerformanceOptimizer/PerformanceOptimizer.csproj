@@ -121,9 +121,5 @@
   <ItemGroup>
     <Publicize Include="Assembly-CSharp;AllowTool" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Optimizations\Experimental\" />
-    <Folder Include="Optimizations\Inefficient\" />
-    <Folder Include="Optimizations\WIP\" />
-  </ItemGroup>
+  <ItemGroup />
 </Project>
